@@ -1,0 +1,11 @@
+.body{
+    background-color: #008080;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+
+.item{
+    padding: 20px;
+}
